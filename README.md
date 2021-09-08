@@ -29,4 +29,4 @@
   Atirar - Espaço
 </div>
 
- <p align="middle">Essa engine possui o algoritimo de mapa randomico</p>
+ <p align="middle">Essa engine possui o algoritimo de mapa randomico na classe World</p>
