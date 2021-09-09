@@ -28,5 +28,6 @@
   
   Atirar - Espaço
 </div>
+  <img align="right" alt="zallih" width="120" src="https://cdn.discordapp.com/attachments/882354770709479427/885547375156944906/my-octocat-1631200526625.png">
 
  <p align="middle">Essa engine possui o algoritimo de mapa randomico na classe World</p>
